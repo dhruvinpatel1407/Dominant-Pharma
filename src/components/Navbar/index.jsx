@@ -47,7 +47,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="text-black text-2xl font-bold flex items-center">
             <img
-              src="../../../public/2.jpg" // Logo source
+              src="/2.jpg" // Logo source
               alt="main logo"
               className="transition-all duration-300"
               style={{ height: `${logoSize}px` }} // Dynamic logo size based on scroll

@@ -14,7 +14,7 @@ const WhatWeDo = () => {
         <div className="flex flex-col items-center p-4 border border-gray-300 rounded-md">
         <div className="w-32 h-32 overflow-hidden">
           <img
-            src="../../../public/icon1.jpg"  // Adjust the image path
+            src="/icon1.jpg"  // Adjust the image path
             alt="Box 4"
             className="w-full h-auto object-cover mb-4"
           /> </div>
@@ -26,7 +26,7 @@ const WhatWeDo = () => {
         <div className="flex flex-col items-center p-4 border border-gray-300 rounded-md">
         <div className="w-32 h-32 overflow-hidden">
           <img
-            src="../../../public/icon2.jpg"  // Adjust the image path
+            src="/icon2.jpg"  // Adjust the image path
             alt="Box 4"
             className="w-full h-auto object-cover mb-4"
           /> </div>
@@ -38,7 +38,7 @@ const WhatWeDo = () => {
         <div className="flex flex-col items-center p-4 border border-gray-300 rounded-md">
         <div className="w-32 h-32 overflow-hidden">
           <img
-            src="../../../public/icon3.jpg"  // Adjust the image path
+            src="/icon3.jpg"  // Adjust the image path
             alt="Box 4"
             className="w-full h-auto object-cover mb-4"
           /> </div>
@@ -50,7 +50,7 @@ const WhatWeDo = () => {
         <div className="flex flex-col items-center p-4 border border-gray-300 rounded-md">
         <div className="w-32 h-32 overflow-hidden">
           <img
-            src="../../../public/icon1.jpg"  // Adjust the image path
+            src="/icon1.jpg"  // Adjust the image path
             alt="Box 4"
             className="w-full h-auto object-cover mb-4"
           /> </div>

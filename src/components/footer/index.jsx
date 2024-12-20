@@ -11,7 +11,7 @@ const Footer = () => {
     <footer className="bg-gray-800 text-white py-8">
       {/* First Line: Logo */}
       <div className="flex  justify-center items-center px-4">
-        <img src="../../../public/2.jpg" alt="Logo" className="h-12" />
+        <img src="/2.jpg" alt="Logo" className="h-12" />
       </div>
 
       {/* Second Line: Four Flexboxes */}

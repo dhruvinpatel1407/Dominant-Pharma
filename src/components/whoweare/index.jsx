@@ -12,7 +12,7 @@ const WhoWeAre = () => {
         <div className="w-1/2">
           <Parallax 
             blur={0} 
-            bgImage="../../../public/ourvision.jpg" // Replace with your image path
+            bgImage="/ourvision.jpg" // Replace with your image path
             bgImageAlt="Left Side Image"
             strength={200}
             className="w-full h-full"
@@ -48,7 +48,7 @@ const WhoWeAre = () => {
             </div>
             <div className="w-1/2">
               <img
-                src="../../../public/missionimg.jpg" // Replace with your image path
+                src="/missionimg.jpg" // Replace with your image path
                 alt="Right Side Image"
                 className="w-full h-full object-cover"
               />
@@ -63,7 +63,7 @@ const WhoWeAre = () => {
         <div className="relative w-full">
           <Parallax 
             blur={0} 
-            bgImage="../../../public/ourvision.jpg" // Replace with your image path
+            bgImage="/ourvision.jpg" // Replace with your image path
             bgImageAlt="Top Image"
             strength={200}
             className="w-full h-96 object-cover"
@@ -97,7 +97,7 @@ const WhoWeAre = () => {
           </div>
           <div className="sm:w-1/2 w-full sm:pt-0 pt-4 ">
             <img
-              src="../../../public/missionimg.jpg" // Replace with your image path
+              src="/missionimg.jpg" // Replace with your image path
               alt="Right Side Image"
               className="w-full h-full object-cover"
             />

@@ -18,7 +18,7 @@ const HomeOurProduct = () => {
       <div className="sm:w-1/5 w-full flex flex-col justify-center mb-6 sm:mb-0 me-4 ">
        <div className='border border-4 border-white rounded-md mx-28 sm:mx-0'>
         <img
-          src="../../../public/img1.jpg"  // Replace with your image path
+          src="/img1.jpg"  // Replace with your image path
           alt="Image 1"
           className="w-full h-full object-cover"
         /></div>
@@ -29,7 +29,7 @@ const HomeOurProduct = () => {
       <div className="sm:w-1/5 w-full flex flex-col justify-center ">
       <div className='border border-4 border-white rounded-md mx-28 sm:mx-0'>
         <img
-          src="../../../public/img2.jpg"  // Replace with your image path
+          src="/img2.jpg"  // Replace with your image path
           alt="Image 2"
           className="w-full h-full object-cover"
         /> </div>
